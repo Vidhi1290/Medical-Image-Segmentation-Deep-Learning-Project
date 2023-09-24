@@ -55,7 +55,7 @@ Our goal is to develop a robust polyp segmentation model using deep learning tec
 
 ## 🚀 Getting Started
 
-```bash
+```
 # Clone the repository
 git clone https://github.com/YourUsername/YourRepository.git
 
@@ -64,3 +64,4 @@ cd Medical-Image-Segmentation-Deep-Learning-Project
 
 # Install dependencies
 pip install -r requirements.txt
+
