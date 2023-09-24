@@ -2,15 +2,15 @@
 
 🔬 **Explore Medical Image Segmentation with Deep Learning**
 
-In the world of healthcare and medical science, the fusion of artificial intelligence and deep learning is revolutionizing diagnostics. Our project focuses on the precise segmentation of polyps from colonoscopy images—a vital tool for medical practitioners.
+In healthcare and medical science, the fusion of artificial intelligence and deep learning is revolutionizing diagnostics. My project focuses on the precise segmentation of polyps from colonoscopy images—a vital tool for medical practitioners.
 
 ## 📁 Data
 
-We use the CVC-Clinic database, containing frames from colonoscopy videos. The dataset includes polyp frames and corresponding ground truth images in both PNG and TIFF formats.
+The use of the CVC-Clinic database, containing frames from colonoscopy videos. The dataset includes polyp frames and corresponding ground truth images in both PNG and TIFF formats.
 
 ## 🎯 Aim
 
-Our goal is to develop a robust polyp segmentation model using deep learning techniques.
+I aimed to develop a robust polyp segmentation model using deep learning techniques.
 
 ## 💻 Tech Stack
 
