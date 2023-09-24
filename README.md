@@ -53,9 +53,17 @@ Our goal is to develop a robust polyp segmentation model using deep learning tec
 - Building VGG Blocks with PyTorch
 - Training Unet++ Models
 
+## Contact Information
+
+For questions, collaborations, or further information, feel free to contact me:
+
+- **Project Reference**: Project Pro
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/vidhi-waghela-434663198/)
+- **Email**: [vidhiwaghela99@gmail.com](mailto:vidhiwaghela99@gmail.com)
+
 ## 🚀 Getting Started
 
-```
+```python
 # Clone the repository
 git clone https://github.com/YourUsername/YourRepository.git
 
@@ -64,4 +72,6 @@ cd Medical-Image-Segmentation-Deep-Learning-Project
 
 # Install dependencies
 pip install -r requirements.txt
+
+
 
